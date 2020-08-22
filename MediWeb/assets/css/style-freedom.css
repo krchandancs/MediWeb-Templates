@@ -538,7 +538,7 @@ p.sub-paragraph-white {
             float: right;
             background: var(--blue-color);
             display: inline-block;
-            line-height: 40px;
+            line-height: 30px;
             padding: 0 15px;
             margin-top: 4px;
         }
@@ -686,7 +686,7 @@ p.sub-paragraph-white {
 
 @media (max-width: 668px) {
     .w3l-header-4 ul.menu {
-        top: 120px;
+        top: 78px;
     }
 }
 
@@ -2926,7 +2926,7 @@ p.sub-paragraph-white {
     .w3l-footer-28-main #movetop {
         display: none;
         position: fixed;
-        bottom: 45px;
+        bottom: 35px;
         right: 0;
         z-index: 99;
         font-size: 12px;
@@ -2934,11 +2934,11 @@ p.sub-paragraph-white {
         outline: none;
         cursor: pointer;
         color: var(--theme-color);
-        width: 45px;
-        height: 45px;
+        width: 35px;
+        height: 35px;
         background: #eee;
         padding: 0;
-        line-height: 45px;
+        line-height: 35px;
         transition: 0.5s ease-out;
     }
 
